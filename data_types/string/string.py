@@ -39,9 +39,18 @@
 # txt1=txt.replace("india","nepal")
 # print(txt1)
  
-txt="a,b,c"
+txt="nepal, india , uk ,usa, canada"
 t=txt.split(",")
 print(t)
 
 joined_text="-".join(txt)
 print(joined_text)
+
+print(txt.find("uk"))
+
+
+name="ujwal"
+age=25
+
+hey="My name is {} and my age is {}".format(name,age)
+print(hey)
