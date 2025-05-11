@@ -1,0 +1,8 @@
+how to see python version?
+python3 --version
+
+how to run python command?
+python3 filename.py
+
+how to del sub branch in github?
+git push origin --delete branch_name
