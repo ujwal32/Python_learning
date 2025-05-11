@@ -25,3 +25,5 @@ print(power)
 quo=12//3  #basically it takes remainder
 
 print(quo)
+
+print(type(num1))
