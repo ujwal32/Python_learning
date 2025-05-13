@@ -2,3 +2,4 @@
 
 student={"name":"ujwal","age":"32","country":"nepal"}
 print(student)
+print(student["name"])
